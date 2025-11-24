@@ -26,3 +26,7 @@ Heat exchanger fundamentals
 LMTD method
 
 Technical documentation
+
+
+
+![Heat Exchanger Calculator Screenshot](calculator_screenshot.PNG)
