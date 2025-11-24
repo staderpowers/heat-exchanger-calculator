@@ -30,4 +30,5 @@ Technical documentation
 
 
 ![Heat Exchanger Calculator Screenshot](calculator_screenshot.PNG)
+
 Excel-based heat exchanger area calculator using LMTD method.
