@@ -13,7 +13,7 @@ Files Included
 
 heat_exchanger_area_calculator.xlsx
 
-calculator_screenshot.png
+calculator_screenshot.PNG
 
 Heat_Exchanger_Calculator_Stader_Powers.pdf
 
